@@ -9,7 +9,7 @@ Random weekend exemplary project :3
 
 Nothing, really, it's just a very simplified, simulated version of the neural structure of Caenorhabditis elegans the Worm :3
 
-Written in nothing but Python, done by ChatGPT (as this project serve no purpose aside from being a proof of concept)
+Written in nothing but Python, done by ChatGPT (as this project serves no purpose aside from being a proof of concept)
 
 ---
 
